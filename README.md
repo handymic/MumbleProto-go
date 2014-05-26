@@ -1,4 +1,4 @@
-# MumbleProto
+# MumbleProto-GO
 
 GO package for [Mumble.proto][] from [mumble-voip/mumble][].
 
