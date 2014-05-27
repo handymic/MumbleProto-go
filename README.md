@@ -12,6 +12,11 @@ Fetching & compiling the latest:
 Commit the updated `Mumble.proto` & `Mumble.pb.go`.
 
 
+## License
+
+See LICENSE
+
+
 [mumble-voip/mumble]: https://github.com/mumble-voip/mumble
 [Mumble.proto]: https://github.com/mumble-voip/mumble/blob/master/src/Mumble.proto
 
